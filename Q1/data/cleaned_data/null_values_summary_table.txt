@@ -1,0 +1,6 @@
+Null Values Summary: 
+Height           0
+Weight           0
+Age              0
+Grip strength    0
+Frailty          0
