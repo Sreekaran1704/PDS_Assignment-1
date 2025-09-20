@@ -43,3 +43,5 @@ with open("../log/complete_log.txt", "a") as f:
     f.write("\n")
     f.write("--------------------------------\n")
 
+def final_data_frame(df1):
+    return df1
