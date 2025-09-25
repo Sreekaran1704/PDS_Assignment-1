@@ -11,5 +11,6 @@ def new_df(df):
 })
     return df
 
+df = new_df(df)
 
 
