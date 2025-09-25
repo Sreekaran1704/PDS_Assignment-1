@@ -1,0 +1,72 @@
+Data Cleaning Started: 
+gender                         0
+race/ethnicity                 0
+parental level of education    0
+lunch                          0
+test preparation course        0
+math score                     0
+reading score                  0
+writing score                  0
+--------------------------------
+Value counts for seeing if any errors in the columns like any anamolies or any other issues: 
+gender
+female    518
+male      482
+--------------------------------
+parental level of education
+some college          226
+associate's degree    222
+high school           196
+some high school      179
+bachelor's degree     118
+master's degree        59
+--------------------------------
+race/ethnicity
+group C    319
+group D    262
+group B    190
+group E    140
+group A     89
+--------------------------------
+lunch
+standard        645
+free/reduced    355
+--------------------------------
+test preparation course
+none         642
+completed    358
+--------------------------------
+Data types: 
+object
+--------------------------------
+object
+--------------------------------
+object
+--------------------------------
+object
+--------------------------------
+object
+--------------------------------
+int64
+--------------------------------
+int64
+--------------------------------
+int64
+--------------------------------
+Checking all the data types to see if there are any errors: 
+Gender Data Type:object
+--------------------------------
+Parental Level of Education Data Type:object
+--------------------------------
+Race/Ethnicity Data Type:object
+--------------------------------
+Lunch Data Type:object
+--------------------------------
+Test Preparation Course Data Type:object
+--------------------------------
+Math Score Data Type:int64
+--------------------------------
+Reading Score Data Type:int64
+--------------------------------
+Writing Score Data Type:int64
+--------------------------------
