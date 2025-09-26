@@ -29,8 +29,11 @@ report_file = os.path.join(reports_dir, "Data_Visualizations_with_interpretation
 with open(report_file, "a") as f:
     f.write("--------------------------------\n")
     f.write("Data Visualization 2 with it's interpretation: \n")
+    f.write("--------------------------------\n")
     f.write("![Math Scores by Test Preparation Course](../plots/V2.png)\n")
-    f.write("The boxplot analysis shows a clear and substantial benefit of completing the test preparation course on math performance. Students who completed the course achieved a much higher median score compared to those who did not, making a improvement in central performance. Their scores are also more tightly clustered, indicating greater consistency at a higher level of achievement. In contrast, non-completers displayed both a lower median and a wider score spread, with the majority falling between the lowest score than the ones completed ones. This highlights not only weaker overall performance but also less predictability in outcomes.")
+    f.write("\n")
+    f.write("Interpretation: \n")
+    f.write("By analysing this boxplot we can clearly see a substantial benefit of completing the test preparation course on math performance. i.e. Students who completed the course achieved a much higher median score compared to those who did not, making a improvement in central performance. Their scores are also more tightly clustered, indicating greater consistency at a higher level of achievement. On the other hand, non-completers displayed both a lower median and a wider score spread, with the majority falling between the lowest score than the ones completed ones. This highlights not only weaker overall performance but also less predictability in outcomes.")
     f.write("\n")
 
 
