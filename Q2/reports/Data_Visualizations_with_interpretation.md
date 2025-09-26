@@ -12,3 +12,10 @@ Data Visualization 2 with it's interpretation:
 
 Interpretation: 
 By analysing this boxplot we can clearly see a substantial benefit of completing the test preparation course on math performance. i.e. Students who completed the course achieved a much higher median score compared to those who did not, making a improvement in central performance. Their scores are also more tightly clustered, indicating greater consistency at a higher level of achievement. On the other hand, non-completers displayed both a lower median and a wider score spread, with the majority falling between the lowest score than the ones completed ones. This highlights not only weaker overall performance but also less predictability in outcomes.
+
+Data Visualization 2 with it's interpretation: 
+--------------------------------
+![Math Scores by Test Preparation Course](../plots/V2.png)
+
+Interpretation: 
+By analysing this boxplot we can clearly see a substantial benefit of completing the test preparation course on math performance. i.e. Students who completed the course achieved a much higher median score compared to those who did not, making a improvement in central performance. Their scores are also more tightly clustered, indicating greater consistency at a higher level of achievement. On the other hand, non-completers displayed both a lower median and a wider score spread, with the majority falling between the lowest score than the ones completed ones. This highlights not only weaker overall performance but also less predictability in outcomes.

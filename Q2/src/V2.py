@@ -27,6 +27,7 @@ plt.savefig(plot_file, dpi=300, bbox_inches="tight")
 
 report_file = os.path.join(reports_dir, "Data_Visualizations_with_interpretation.md")
 with open(report_file, "a") as f:
+    f.write("\n")
     f.write("Data Visualization 2 with it's interpretation: \n")
     f.write("--------------------------------\n")
     f.write("![Math Scores by Test Preparation Course](../plots/V2.png)\n")
