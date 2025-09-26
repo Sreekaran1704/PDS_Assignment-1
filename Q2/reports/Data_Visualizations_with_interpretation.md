@@ -20,3 +20,12 @@ Data Visualization 3 with it's interpretation:
 
 Interpretation: 
 By analysing this barplot we can clearly see a performance gap in average scores between students based on lunch type. i.e.Students receiving a standard lunch consistently achieve higher mean scores across subjects compared to those on free or reduced lunch programs. This suggests that access to standard lunch may be associated with better academic outcomes
+
+Data Visualization 4 with it's interpretation: 
+--------------------------------
+![Correlation matrix](../plots/V4.png)
+
+Interpretation: 
+This correlation matrix highlights strong positive associations among math, reading, and writing scores, with coefficients ranging from 0.80 to 0.95. This indicates that students who excel in one subject are highly likely to perform well in others, reflecting a strong underlying general academic ability.
+
+Math, while still highly correlated with reading (r = 0.82) and writing (r = 0.80), emerges as the most distinct domain. This slightly weaker relationship suggests that math incorporates additional domain-specific skills such as abstract reasoning, numerical fluency, and quantitative problem-solving.
