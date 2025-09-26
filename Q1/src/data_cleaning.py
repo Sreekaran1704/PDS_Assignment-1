@@ -15,6 +15,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 data_dir = os.path.join(script_dir, "..", "data/cleaned_data")
 log_dir = os.path.join(script_dir, "..", "log")
 os.makedirs(data_dir, exist_ok=True) 
+os.makedirs(log_dir, exist_ok=True)
 
 # create the csv file
 csv_file = os.path.join(data_dir, "cleaned_data.csv")
