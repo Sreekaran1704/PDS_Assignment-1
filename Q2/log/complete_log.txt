@@ -36,37 +36,12 @@ test preparation course
 none         642
 completed    358
 --------------------------------
-Data types: 
-object
---------------------------------
-object
---------------------------------
-object
---------------------------------
-object
---------------------------------
-object
---------------------------------
-int64
---------------------------------
-int64
---------------------------------
-int64
---------------------------------
 Checking all the data types to see if there are any errors: 
 Gender Data Type:object
---------------------------------
 Parental Level of Education Data Type:object
---------------------------------
 Race/Ethnicity Data Type:object
---------------------------------
 Lunch Data Type:object
---------------------------------
 Test Preparation Course Data Type:object
---------------------------------
 Math Score Data Type:int64
---------------------------------
 Reading Score Data Type:int64
---------------------------------
 Writing Score Data Type:int64
---------------------------------
