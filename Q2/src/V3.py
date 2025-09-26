@@ -30,12 +30,13 @@ plt.savefig(plot_file, dpi=300, bbox_inches="tight")
 
 report_file = os.path.join(reports_dir, "Data_Visualizations_with_interpretation.md")
 with open(report_file, "a") as f:
-    f.write("--------------------------------\n")
+    f.write("\n")
     f.write("Data Visualization 3 with it's interpretation: \n")
+    f.write("--------------------------------\n")
     f.write("![Average score by lunch](../plots/V3.png)\n")
     f.write("\n")
     f.write("Interpretation: \n")
-    f.write("The data reveals a clear performance gap in average scores between students based on lunch type. Students receiving a standard lunch consistently achieve higher mean scores across subjects compared to those on free or reduced lunch programs. This suggests that access to standard lunch may be associated with better academic outcomes")
+    f.write("By analysing this barplot we can clearly see a performance gap in average scores between students based on lunch type. i.e.Students receiving a standard lunch consistently achieve higher mean scores across subjects compared to those on free or reduced lunch programs. This suggests that access to standard lunch may be associated with better academic outcomes")
     f.write("\n")
 
 
